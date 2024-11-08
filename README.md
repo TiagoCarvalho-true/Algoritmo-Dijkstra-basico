@@ -1,6 +1,3 @@
-Aqui está uma documentação simples para o código Python e C do algoritmo de Dijkstra:
-
----
 
 ### Documentação do Código em Python
 
